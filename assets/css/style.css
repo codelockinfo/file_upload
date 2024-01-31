@@ -1,0 +1,143 @@
+img.logoimg {
+    width: 1.25rem;
+    display: block;
+    height: 1.25rem;
+}
+.polaris-container{
+    padding: 0 var(--p-space-300);
+    margin: var(--p-space-200) 0 0.4375rem 0;
+    align-items: center;
+    flex-wrap: nowrap;
+    max-width: none;
+    flex: 1 1;
+    min-height: 2.5rem;
+    display: flex;
+}
+.cls-header-text{
+    color: inherit;
+    text-decoration: none!important;
+    font-size: 14px;
+    margin-left: 10px;
+}
+.cls-dashboaed{
+    display: flex;
+    border-top: 1px #e7e7e7  solid;
+}
+._MinHeight60_11jpr_73 {
+    min-height: 3.75rem;
+}
+.cls-breadcrumb h1{
+    margin-left: 3%;
+}
+.logoheader{
+    border-bottom: 1px #e7e7e7  solid;
+}
+.cls-main-page{
+    padding: 8px; 
+}
+.cls-first-progress-title{
+    max-width: 28rem;
+    display: block;
+    margin: 3rem auto 1.5rem;
+    text-align: center;
+}
+#cls-firstbox-progress h1 {
+    cursor: pointer;
+}
+#cls-firstbox-progress h2 {
+    font-size: 3rem;
+    line-height: 3rem;
+    margin-right: 1rem;
+}
+#cls-firstbox-progress .Polaris-LegacyCard {
+    opacity: .4;
+    display: -ms-flexbox;
+    display: flex;
+}
+#cls-firstbox-progress .Polaris-LegacyCard.active {
+    opacity: 1;
+}
+.cls-firstbox-text,.cls-secondbox-text,.cls-thirdbox-text {
+    font-size: 14px;
+}
+.cls-pipeline{
+    margin: var(--p-space-5) 0;
+}
+.cls-product-appears-part ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+/* .main-body-parts .box-width .Polaris-Page.cls-first-process{
+    --p-space-6: -0.5rem;
+} */
+.first-run.active{
+display: block;
+}
+.first-run{
+    display: none;
+}
+.cls-width-box{
+    max-width: 62.375rem
+}
+.higher-box-part{
+    max-width: 41.375rem;
+    margin: 0 auto;
+}
+input#labelNumber, input#button_padding_top, input#button_padding_left, input#button_font_size {
+    text-align: right;
+}
+.btn-arae-type .Polaris-Button{
+    width: 100%;
+}
+.color-picker {
+    height: 36px;
+    width: 100%;
+    cursor: pointer;
+    border: 1px solid #c4cdd5;
+    box-shadow: inset 0 1px 0 0 rgba(30, 85, 133, 0.05);
+    border-radius: 3px;
+    position: relative;
+}
+.cls-css-textarae{
+    display:none;
+}
+
+
+.uploadcare--button {
+    border-radius: 3px;
+  }
+  .uploadcare--button:not(.uploadcare--button_primary):not(.uploadcare--button_icon) {
+    color: #333;
+    border-color: #333;
+  }
+  .uploadcare--button_primary, .uploadcare--button_primary:hover, .uploadcare--button_primary:focus, .uploadcare--button_primary:active {
+    
+      background-color: #00A3F0 !important;
+      border-color: #00A3F0 !important;
+      color: #FFFFFF !important;
+    
+  }
+  .uploadcare--powered-by__link { display: none !important; }
+
+  .uploadkit-label {
+    display: block;
+    line-height: 1.25;
+    font-size: 16px;
+    margin-bottom: 8px;
+  }
+  
+
+  .uploadkit-button {
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+    background-color: #00A3F0;
+    color: #FFFFFF;
+    font-size: 16px;
+    border-radius: 3px;
+    padding: 8px 16px;
+    
+  }
+  
+

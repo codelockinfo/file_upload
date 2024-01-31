@@ -177,7 +177,7 @@ if (!isset($__variousLanguageNeeded) || (isset($__variousLanguageNeeded) && $__v
 /*
 //    if (isset($store_name)) {
 //       
-//        $query = $connection->prepare("SELECT application_language FROM `user_shops` WHERE store_name = '$store_name' LIMIT 1;");
+//        $query = $connection->prepare("SELECT application_language FROM `user_shops` WHERE store_name = '$_name' LIMIT 1;");
 //        $query->execute();
 //        $query->setFetchMode(PDO::FETCH_OBJ);
 //        $cls_rows = $query->fetch();
